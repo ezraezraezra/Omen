@@ -1,0 +1,16 @@
+/**********************************************************************
+ * Developer:   Ezra Velazquez http://ezraezraezra.com
+ * Grad School: ITP            http://www.itp.nyu.edu
+ * 
+ * Date:        September 2011
+ *
+ * Title:       OMEN    http://ezraezraezra.com/?p=1482
+ * Description: Feelings support sms-based hotline.
+ *
+ * Tech:        MySQL, PHP, SMS, Twilio API
+ * Last Update: Sept 18th, 2011
+ ***********************************************************************/
+ 
+ NOTE: *** 3rd PARTY LIBRARIES HAVE BEEN OMITTED FROM THE PUBLIC REPO ***
+ 
+ Libraries Omitted:  Twilio     http://www.twilio.com
